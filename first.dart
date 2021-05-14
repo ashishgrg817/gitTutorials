@@ -3,7 +3,7 @@ void main() {
 }rkjghdjkgh
 sdhbfdh
 
-class MyApp extends StatelessWidget {
+class MyApp exteasfkjdsgjnds StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
