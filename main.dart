@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flushbar/flushbar.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp());hsufhjdsrfjsdbf
 }
 
 class MyApp extends StatelessWidget {
