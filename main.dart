@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter FlushBar Example ',
+      // Git Status -s Usage
       home: MyHomePage(),
     );
   }
@@ -42,7 +43,10 @@ class MyHomePage extends StatelessWidget {
 //Simple Flushbar with a button
 void show_Simple_Flushbar(BuildContext context) {
   Flushbar(
-    message: 'Hello from a Flushbar',
+    message: 'Git Tutorials',
+    //Adding New Changes after sending file in staging Area
     duration: Duration(seconds: 3),
   )..show(context);
 }
+
+//Added more changes
